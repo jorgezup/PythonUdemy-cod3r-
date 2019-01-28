@@ -1,0 +1,8 @@
+Nome:Maria, Idade: 45
+Nome:João, Idade: 33
+Nome:Eiva, Idade: 28
+Nome:Jorge, Idade: 27
+Nome:Pedro, Idade: 25
+Nome:Carlos, Idade: 10
+Nome:Bia, Idade: 4
+Nome:Davi, Idade: 1

@@ -1,0 +1,7 @@
+def imprimir (maximo, atual):
+    #condição de parada
+    if atual < maximo:
+        print(atual, end=', ')
+        imprimir(maximo, atual+1)
+
+imprimir(10,1)
