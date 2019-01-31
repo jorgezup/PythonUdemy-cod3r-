@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7971978-ac7a-4940-9771-06b17fe543c4" name="Default Changelist" comment="Adicionando Arquivos">
-      <change afterPath="$PROJECT_DIR$/funcoes/gerador_html_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/gerador_html_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/dicionario_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/generator_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/generator_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list_comprehension/switch_v3.py" afterDir="false" />
+    <list default="true" id="f7971978-ac7a-4940-9771-06b17fe543c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/funcoes/callable_packing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/callable_packing_nomeado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/gerador_html_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/gerador_html_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/packing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/packing_nomeado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/todos_argumentos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/unpacking_nomeado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_comprehension/comprehension_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/list_comprehension/comprehension_v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funcoes/gerador_html_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcoes/gerador_html_v2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,87 +26,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list_comprehension/comprehension_v1.py">
+        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="162">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list_comprehension/comprehension_v2.py">
+        <entry file="file://$PROJECT_DIR$/funcoes/packing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="54" />
+            <state relative-caret-position="116">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list_comprehension/generator_v1.py">
+        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcoes/packing_nomeado.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcoes/unpacking_nomeado.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcoes/callable_packing.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list_comprehension/generator_v2.py">
+        <entry file="file://$PROJECT_DIR$/funcoes/callable_packing_nomeado.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list_comprehension/dicionario_v1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/list_comprehension/switch_v3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v2.py">
+        <entry file="file://$PROJECT_DIR$/funcoes/todos_argumentos.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manipulacao_arquivos/resultado.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manipulacao_arquivos/desafio-ibge.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="86" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="87" />
+            <state relative-caret-position="180">
+              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -122,9 +129,11 @@
       <find>fonte</find>
       <find>posicao</find>
       <find>testeo</find>
+      <find>texto</find>
     </findStrings>
     <replaceStrings>
       <replace>aprovado</replace>
+      <replace>conteudo</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -133,15 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tkinter/entradaDados.py" />
-        <option value="$PROJECT_DIR$/Tkinter/entradaDados01.py" />
-        <option value="$PROJECT_DIR$/Tkinter/banco.py" />
-        <option value="$PROJECT_DIR$/Tkinter/usuarios.py" />
-        <option value="$PROJECT_DIR$/Tkinter/Usuarios.py" />
-        <option value="$PROJECT_DIR$/Tkinter/App.py" />
-        <option value="$PROJECT_DIR$/randomUsers.py" />
-        <option value="$PROJECT_DIR$/randomUsersTimes.py" />
-        <option value="$PROJECT_DIR$/jogadores.txt" />
         <option value="$PROJECT_DIR$/janela.py" />
         <option value="$PROJECT_DIR$/while.py" />
         <option value="$PROJECT_DIR$/if_else.py" />
@@ -184,12 +184,21 @@
         <option value="$PROJECT_DIR$/list_comprehension/switch_v3.py" />
         <option value="$PROJECT_DIR$/funcoes/gerador_html_v1.py" />
         <option value="$PROJECT_DIR$/funcoes/gerador_html_v2.py" />
+        <option value="$PROJECT_DIR$/funcoes/packing.py" />
+        <option value="$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py" />
+        <option value="$PROJECT_DIR$/funcoes/gerador_html_v3.py" />
+        <option value="$PROJECT_DIR$/funcoes/gerador_html_v4.py" />
+        <option value="$PROJECT_DIR$/funcoes/packing_nomeado.py" />
+        <option value="$PROJECT_DIR$/funcoes/unpacking_nomeado.py" />
+        <option value="$PROJECT_DIR$/funcoes/callable_packing.py" />
+        <option value="$PROJECT_DIR$/funcoes/callable_packing_nomeado.py" />
+        <option value="$PROJECT_DIR$/funcoes/todos_argumentos.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
-    <option name="y" value="323" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2111" />
+    <option name="y" value="166" />
     <option name="width" value="960" />
     <option name="height" value="784" />
   </component>
@@ -244,50 +253,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gerador_html_v2">
-    <configuration name="dicionario_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonUdemy-cod3r" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_comprehension" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehension/dicionario_v1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="generator_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonUdemy-cod3r" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_comprehension" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehension/generator_v2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gerador_html_v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.todos_argumentos">
+    <configuration name="callable_packing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -299,7 +266,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/gerador_html_v1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/callable_packing.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +275,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gerador_html_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="callable_packing_nomeado" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,7 +287,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/gerador_html_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/callable_packing_nomeado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="switch_v3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="packing_nomeado" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,11 +304,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/list_comprehension" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehension/switch_v3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/packing_nomeado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="todos_argumentos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonUdemy-cod3r" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/todos_argumentos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unpacking_nomeado" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonUdemy-cod3r" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/unpacking_nomeado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,11 +361,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.gerador_html_v2" />
-        <item itemvalue="Python.gerador_html_v1" />
-        <item itemvalue="Python.switch_v3" />
-        <item itemvalue="Python.dicionario_v1" />
-        <item itemvalue="Python.generator_v2" />
+        <item itemvalue="Python.todos_argumentos" />
+        <item itemvalue="Python.callable_packing_nomeado" />
+        <item itemvalue="Python.callable_packing" />
+        <item itemvalue="Python.unpacking_nomeado" />
+        <item itemvalue="Python.packing_nomeado" />
       </list>
     </recent_temporary>
   </component>
@@ -420,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548272581307</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Adicionando Arquivos">
+      <created>1548879013965</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548879013965</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -433,9 +449,28 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="323" width="960" height="784" extended-state="0" />
+    <frame x="1920" y="0" width="1280" height="1024" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.17914012" />
+      <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.18829113" />
+      <window_info id="Favorites" order="2" sideWeight="0.500813" side_tool="true" weight="0.18829113" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32831" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28878823" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928178" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32842582" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3281768" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32928178" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.16025642" />
       <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.18829113" />
       <window_info id="Favorites" order="2" sideWeight="0.500813" side_tool="true" weight="0.18829113" />
@@ -453,64 +488,13 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adicionando Arquivos" />
     <option name="LAST_COMMIT_MESSAGE" value="Adicionando Arquivos" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tkinter/arquivo04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tkinter/arquivo07.py" />
-    <entry file="file://$PROJECT_DIR$/janela.py" />
-    <entry file="file://$PROJECT_DIR$/Tkinter/arquivo05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tkinter/arquivo06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="46" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tkinter/entradaDados01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tkinter/Banco.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tkinter/Usuarios.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tkinter/App.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/randomUsers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -773,16 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manipulacao_arquivos/resultado.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manipulacao_arquivos/desafio-ibge.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="86" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/list_comprehension/switch_v3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -797,10 +771,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/manipulacao_arquivos/resultado.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manipulacao_arquivos/desafio-ibge.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="86" selection-start-line="25" selection-start-column="86" selection-end-line="25" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        <state relative-caret-position="162">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/packing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/packing_nomeado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/unpacking_nomeado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/callable_packing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/callable_packing_nomeado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/todos_argumentos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>
