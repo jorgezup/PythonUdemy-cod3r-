@@ -2,17 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7971978-ac7a-4940-9771-06b17fe543c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/funcoes/callable_packing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/callable_packing_nomeado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/gerador_html_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/gerador_html_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/packing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/packing_nomeado.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/todos_argumentos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/funcoes/unpacking_nomeado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/app/negocio/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/app/negocio/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/app/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/app/utils/gerador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafio/desafio_gerador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/callable_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/correcao_arg_padrao_mutavel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/desafio_html.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/funcoes/problema_arg_padrao_mutavel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/calculadora/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote1/modulo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote1/modulo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote2/modulo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote_v3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote_v4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pacotes/pacote_v5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/funcoes/gerador_html_v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/funcoes/gerador_html_v2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,91 +38,68 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v2.py">
+        <entry file="file://$PROJECT_DIR$/pacotes/pacote_v5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="90">
+              <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/packing.py">
+        <entry file="file://$PROJECT_DIR$/desafio/app/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/desafio/app/negocio/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="18">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v3.py">
+        <entry file="file://$PROJECT_DIR$/desafio/app/negocio/backend.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="66" />
+            <state relative-caret-position="18">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/desafio/app/utils/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v4.py">
+        <entry file="file://$PROJECT_DIR$/desafio/app/utils/gerador.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/packing_nomeado.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/unpacking_nomeado.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/callable_packing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoes/callable_packing_nomeado.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="90">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/funcoes/todos_argumentos.py">
+        <entry file="file://$PROJECT_DIR$/desafio/desafio_gerador.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pacotes/calculadora/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -142,31 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/janela.py" />
-        <option value="$PROJECT_DIR$/while.py" />
-        <option value="$PROJECT_DIR$/if_else.py" />
-        <option value="$PROJECT_DIR$/for_01.py" />
-        <option value="$PROJECT_DIR$/for_02.py" />
-        <option value="$PROJECT_DIR$/for_03.py" />
-        <option value="$PROJECT_DIR$/break_continue.py" />
-        <option value="$PROJECT_DIR$/desafio_for.py" />
-        <option value="$PROJECT_DIR$/switch_1.py" />
-        <option value="$PROJECT_DIR$/switch_2.py" />
-        <option value="$PROJECT_DIR$/for_04.py" />
-        <option value="$PROJECT_DIR$/for_05.py" />
-        <option value="$PROJECT_DIR$/desafio_set.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v1.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v2.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v3.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v4.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v5.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v6.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v7.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/exemplo_recursao.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_recursivo.py" />
-        <option value="$PROJECT_DIR$/estrutura_controles_projetos/finonacci_recursivo_v1.py" />
-        <option value="$PROJECT_DIR$/manipulacao_arquivos/pessoas.csv" />
-        <option value="$PROJECT_DIR$/manipulacao_arquivos/io_v1.py" />
         <option value="$PROJECT_DIR$/manipulacao_arquivos/io_v2.py" />
         <option value="$PROJECT_DIR$/manipulacao_arquivos/io_v3.py" />
         <option value="$PROJECT_DIR$/manipulacao_arquivos/io_v4.py" />
@@ -193,13 +157,38 @@
         <option value="$PROJECT_DIR$/funcoes/callable_packing.py" />
         <option value="$PROJECT_DIR$/funcoes/callable_packing_nomeado.py" />
         <option value="$PROJECT_DIR$/funcoes/todos_argumentos.py" />
+        <option value="$PROJECT_DIR$/funcoes/callable_object.py" />
+        <option value="$PROJECT_DIR$/funcoes/problema_arg_padrao_mutavel.py" />
+        <option value="$PROJECT_DIR$/funcoes/correcao_arg_padrao_mutavel.py" />
+        <option value="$PROJECT_DIR$/funcoes/decorator.py" />
+        <option value="$PROJECT_DIR$/funcoes/desafio_html.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote1/__init__.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote1/modulo1.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote_v1.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote1/modulo2.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote_v2.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote2/__init__.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote2/modulo1.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote_v3.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote_v4.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote2/pacote_v5.py" />
+        <option value="$PROJECT_DIR$/pacotes/calc/__init__.py" />
+        <option value="$PROJECT_DIR$/pacotes/pacote_v5.py" />
+        <option value="$PROJECT_DIR$/pacotes/calculadora/__init__.py" />
+        <option value="$PROJECT_DIR$/desafio/app/__init__.py" />
+        <option value="$PROJECT_DIR$/desafio/app/negocio/__init__.py" />
+        <option value="$PROJECT_DIR$/desafio/app/negocio/backend.py" />
+        <option value="$PROJECT_DIR$/desafio/app/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/desafio/app/utils/gerador.py" />
+        <option value="$PROJECT_DIR$/desafio/desafio.py" />
+        <option value="$PROJECT_DIR$/desafio/desafio_gerador.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2111" />
-    <option name="y" value="166" />
-    <option name="width" value="960" />
+    <option name="x" value="1530" />
+    <option name="y" value="90" />
+    <option name="width" value="1910" />
     <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -210,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,25 +210,27 @@
             <path>
               <item name="PythonUdemy-cod3r" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonUdemy-cod3r" type="462c0819:PsiDirectoryNode" />
-              <item name="funcoes" type="462c0819:PsiDirectoryNode" />
+              <item name="desafio" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pacotes" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pacotes/pacote2" />
       <recent name="$PROJECT_DIR$/funcoes" />
       <recent name="$PROJECT_DIR$/list_comprehension" />
       <recent name="$PROJECT_DIR$/manipulacao_arquivos" />
       <recent name="$PROJECT_DIR$/estrutura_controles_projetos" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -253,8 +245,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.todos_argumentos">
-    <configuration name="callable_packing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.desafio">
+    <configuration name="__init__ (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -262,11 +254,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pacotes/calculadora" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/callable_packing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacotes/calculadora/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="callable_packing_nomeado" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pacotes/calc" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/callable_packing_nomeado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacotes/calc/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="packing_nomeado" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,11 +296,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/packing_nomeado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio/desafio_gerador.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="todos_argumentos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pacote_v4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,11 +317,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pacotes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/todos_argumentos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacotes/pacote_v4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -338,7 +330,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="unpacking_nomeado" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pacote_v5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonUdemy-cod3r" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,11 +338,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funcoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pacotes/pacote2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funcoes/unpacking_nomeado.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pacotes/pacote_v5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.todos_argumentos" />
-        <item itemvalue="Python.callable_packing_nomeado" />
-        <item itemvalue="Python.callable_packing" />
-        <item itemvalue="Python.unpacking_nomeado" />
-        <item itemvalue="Python.packing_nomeado" />
+        <item itemvalue="Python.desafio" />
+        <item itemvalue="Python.pacote_v5" />
+        <item itemvalue="Python.__init__ (1)" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.pacote_v4" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +428,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548879013965</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adicionando Arquivos">
+      <created>1548966845386</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548966845386</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -452,12 +451,12 @@
     <frame x="1920" y="0" width="1280" height="1024" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.17914012" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.499187" visible="true" weight="0.25557324" />
       <window_info id="Structure" order="1" sideWeight="0.500813" side_tool="true" weight="0.18829113" />
       <window_info id="Favorites" order="2" sideWeight="0.500813" side_tool="true" weight="0.18829113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32831" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28878823" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2876557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,160 +494,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adicionando Arquivos" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/randomUsers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jogadores.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/randomUsersTimes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/while.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/if_else.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperadorMembro.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OperadorIdentidade.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-118" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/break_continue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio_for.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/switch_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/for_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conjuntos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafio_set.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/estrutura_controles_projetos/finonacci_v5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -784,21 +629,14 @@
     <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/funcoes/packing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
+        <state relative-caret-position="306">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -809,24 +647,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/prog_funcional_spoiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/funcoes/gerador_html_v4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/funcoes/packing_nomeado.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/funcoes/unpacking_nomeado.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -840,14 +685,161 @@
     <entry file="file://$PROJECT_DIR$/funcoes/callable_packing_nomeado.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/funcoes/todos_argumentos.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/callable_object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/problema_arg_padrao_mutavel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/correcao_arg_padrao_mutavel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoes/desafio_html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote_v1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote1/modulo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote2/modulo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote1/modulo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/calculadora/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pacotes/pacote_v5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio/app/negocio/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio/app/negocio/backend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio/app/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio/app/utils/gerador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafio/desafio_gerador.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
