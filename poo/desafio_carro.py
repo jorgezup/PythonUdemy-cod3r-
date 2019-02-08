@@ -13,9 +13,12 @@ class Carro:
 
     def frear(self, delta=5):
         self.velocidade_atual -= delta
-        if self.velocidade_atual <= self
-
-
+        if 0 <= self.velocidade_atual <= self.velocidade_maxima:
+            return self.velocidade_atual
+        elif self.velocidade_atual > self.velocidade_maxima:
+            return self.velocidade_maxima
+        else:
+            return self.velocidade_minima
 
 
 if __name__ == '__main__':
@@ -24,5 +27,5 @@ if __name__ == '__main__':
     for _ in range(25):
         print(c1.acelerar(10))
 
-
-
+    for _ in range(25):
+        print(c1.frear(delta=20))
