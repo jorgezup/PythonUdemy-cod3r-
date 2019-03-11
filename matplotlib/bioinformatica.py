@@ -1,5 +1,5 @@
-entrada = open("16s_bacteria.fasta").readlines()
-saida = open("bacteria.html", "w")
+entrada = open("human_18s").read()
+saida = open("human.html", "w")
 
 # Cria um dicionário
 contador = {}
